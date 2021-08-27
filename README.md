@@ -11,8 +11,9 @@
 ![1](https://user-images.githubusercontent.com/58864953/131129521-cea4d763-794e-47f1-aa59-0460eb73565b.png)
 #### 2) List products in Turkish
 ![2](https://user-images.githubusercontent.com/58864953/131129525-ccbb613b-1dc7-4517-a496-8ae8dcee59cc.png)
+#### 3) List products in Turkish by category Bilgisayar
+![3](https://user-images.githubusercontent.com/58864953/131134335-8f9d6198-83e6-48d7-be6f-2d3e6813b526.png)
 
-
-#### 3) Database structure :
+#### 4) Database structure :
 ![db](https://user-images.githubusercontent.com/58864953/131132461-dbb00860-4c5d-47c0-89f9-287ae6f90c6a.png)
 
